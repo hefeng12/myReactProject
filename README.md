@@ -1,3 +1,14 @@
+基于react做的一个滑块验证的小玩意。
+![Image text](https://github.com/hefeng12/img/blob/main/image/222.jpg)
+
+启动服务：
+npm install
+npm start
+
+打包文件：
+npm run build
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
